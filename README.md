@@ -8,11 +8,11 @@ Hoy lidero la **Hoja de Ruta de IA y la gestión de datos en FUTEC**. Antes cons
 
 | Proyecto | Qué muestra |
 |---|---|
+| [food-tracker-bot](https://github.com/glemrc/food-tracker-bot) | Bot de Telegram que registra comidas desde una foto, un texto o una nota de voz: Gemini identifica alimentos y gramos, y los macros salen de tablas reales (Tabla Peruana y USDA). SQLAlchemy/Alembic, más de 90 pruebas sin red y despliegue 24/7 |
 | [sql-data-warehouse-medallion](https://github.com/glemrc/sql-data-warehouse-medallion) | Data Warehouse con arquitectura Medallion (Bronze/Silver/Gold), modelo Star Schema, controles de calidad y dashboard ejecutivo en Power BI |
 | [conference-scraper](https://github.com/glemrc/conference-scraper) | Pipeline de scraping que extrae fechas y plazos de conferencias: regex primero, LLM solo como respaldo, caché y detección de cambios, con salida a Excel |
 | [demand-forecasting-inventory-analytics](https://github.com/glemrc/demand-forecasting-inventory-analytics) | Predicción de demanda y niveles óptimos de inventario para retail y e-commerce |
 | [pacman-reinforcement-learning](https://github.com/glemrc/pacman-reinforcement-learning) | Agente de Pac-Man entrenado con Deep Q-Network (DQN) |
-| [logistics-api](https://github.com/glemrc/logistics-api) | API en .NET (C#) para gestión logística |
 | [vdi-frontend](https://github.com/glemrc/vdi-frontend) | Aplicación web institucional con Vue.js y Quasar |
 
 ## Stack
@@ -37,7 +37,7 @@ Hoy lidero la **Hoja de Ruta de IA y la gestión de datos en FUTEC**. Antes cons
 
 - *Robust Breast Cancer Detection Model Based on Machine Learning* (CoMeSySo 2024) · [DOI](https://doi.org/10.1007/978-3-031-96798-6_37)
 - *A Model for Classifying Pitahaya Diseases Using Deep-Learning and Machine Learning* (CSOC 2025) · [DOI](https://doi.org/10.1007/978-3-032-04725-0_6)
-- *Technological Role Classifier in Computer Science by Analyzing Psychological Profiles and Technical Skills with Machine Learning and Deep Learning* (CoMeSySo 2025)
+- *Technological Role Classifier in Computer Science by Analyzing Psychological Profiles and Technical Skills with Machine Learning and Deep Learning* (CoMeSySo 2025) · [DOI](https://doi.org/10.1007/978-3-032-20749-4_6)
 
 ## Contacto
 
